@@ -31,4 +31,9 @@ This project involves statistical analysis of student performance data using R. 
 3. **Independent t-test**
    - **Objective:** Compare G1 grades between mathematics and Portuguese subjects.
    - **Conclusion:** Significant difference in G1 grades (p = 0.0139), with Portuguese grades being higher.
+---
+## **Results Summary**
+- **Chi-Square Test:** Failures are equally distributed across genders.
+- **ANOVA:** Higher education intent significantly affects G3 grades, but paid classes do not.
+- **t-test:** Portuguese G1 grades are significantly higher than mathematics G1 grades.
 
